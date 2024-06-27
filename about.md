@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-I'm a hobbyist programmer, gamedev, and artist.  Here you can find me writing about projects that I've worked on.
+I'm a professional software developer and a hobbyist gamedev and artist.  Here's a blog where I write about some personal projects that I've worked on.
